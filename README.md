@@ -24,7 +24,6 @@
 class AIEngineer:
     def __init__(self):
         self.name         = "Krutika Malli"
-        self.role         = ["AI Engineer", "Data Scientist"]
         self.location     = "[Bengaluru], India "
         self.focus        = ["LLM Agents", "RAG Systems", "ML Pipelines"]
         self.fun_fact     = "I turn messy data into intelligent systems"
